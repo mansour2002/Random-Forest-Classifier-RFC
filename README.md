@@ -1,4 +1,4 @@
-# Random-Forest-Classifier-RFC
+# Random Forest Classifier RFC for AV Analysis
 
 Random Forest Classifier (RFC) for Artery-Vein (AV) Analysis to increase Diabetic Retinopathy (DR) binary and multiclass classifications
 
